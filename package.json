@@ -2,10 +2,10 @@
   "name": "linked-list",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "trees.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon queue.js"
+    "start": "nodemon trees.js"
   },
   "keywords": [],
   "author": "",
