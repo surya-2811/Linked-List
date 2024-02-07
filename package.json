@@ -2,10 +2,10 @@
   "name": "linked-list",
   "version": "1.0.0",
   "description": "",
-  "main": "trees.js",
+  "main": "hashTable.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon trees.js"
+    "start": "nodemon hashTable.js"
   },
   "keywords": [],
   "author": "",
