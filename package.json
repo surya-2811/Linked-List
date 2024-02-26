@@ -2,10 +2,10 @@
   "name": "linked-list",
   "version": "1.0.0",
   "description": "",
-  "main": "sort.js",
+  "main": "treeTraversal.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon sort.js"
+    "start": "nodemon treeTraversal.js"
   },
   "keywords": [],
   "author": "",
